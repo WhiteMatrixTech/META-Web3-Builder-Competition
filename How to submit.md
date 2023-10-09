@@ -13,7 +13,7 @@
 
 ![image-20230925192010013](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925192010013.png)
 
-4. Create a pull request and wait for review.
+6. Create a pull request and wait for review.
 
 ![image-20230925185836937](https://d3gvnlbntpm4ho.cloudfront.net/META_Web3_Builder_Competition/META_Web3_Builder_Competition.assets/image-20230925185836937.png)
 
