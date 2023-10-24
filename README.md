@@ -21,7 +21,7 @@
 
 [*How to Submit*](https://github.com/WhiteMatrixTech/META-Web3-Builder-Competition/blob/main/How%20to%20submit.md)
 
-**Submission DDL:** October 25, 2023(AST, UTC/GMT+3)  23:59PM 
+**Submission DDL:** October 24, 2023(AST, UTC/GMT+3)  23:59PM 
 
 
 
