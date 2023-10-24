@@ -1,6 +1,6 @@
-Project Name:
+Project Name: Eurybia
 
-Project Intro:
+Project Intro: An intro of Eurybia
 
 Video Link:
 
