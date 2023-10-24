@@ -8,4 +8,4 @@ Video Link: https://drive.google.com/file/d/14zONcLa372eUcGXMq6das2qdA6zxk33V/vi
 Repository Addr: https://github.com/dulaz41/Minhub
 
 Contract Addr: <li>0xf4ccA5225578f4412C3E21d7cE75413F1C78115F <a href=https://sepolia-blockscout.scroll.io/address/0xf4ccA5225578f4412C3E21d7cE75413F1C78115F/contracts#address-tabs>Minhub Transactions (Blockscout Explorer)</a></li>
-<li>0x1f8854185f46B643544f0dCA3355Cc30212Ec48E <a href=https://sepolia-blockscout.scroll.io/address/0x1f8854185f46B643544f0dCA3355Cc30212Ec48E/contracts#address-tabs>Minhub_extender Transactions (Blockscout Explorer)</a></li>
+<li>0x1f8854185f46B643544f0dCA3355Cc30212Ec48E <a href=https://sepolia-blockscout.scroll.io/address/0xE22953F947490a6e4930ef5359Ea3c357aB01623/contracts#address-tabs>Minhub_extender Transactions (Blockscout Explorer)</a></li>
