@@ -1,8 +1,12 @@
 Project Name: FlameFinance
 
-Project Intro: A Permissionless MultiChain Decentralized Exchange on Base Chain. For Trading crypto assets and Liquidity Provision.
+Project Intro: is a Permissionless Decentralise Exchange on Base
 
-Video Link: https://drive.google.com/file/d/1f4N8oO_tX9FJ9jpGwb8ER7qnfE1-WbzV/view?usp=sharing
+  Prepare to embark on a journey of financial liberation with FlameFinance, the beacon of permissionless decentralization on the base chain. Our platform ignites the flames 
+  of financial innovation, allowing you to trade, invest, and explore the boundless possibilities of DeFi without restrictions. With FlameFinance, we are the catalyst for 
+  your financial autonomy, where the power of decentralized exchange is in your hands, lighting the path to a borderless financial future.
+
+Video Link: https://drive.google.com/file/d/1otc0gNq3Wmn4Wn3RUeNutn8fFdWsCQFG/view?usp=sharing
 
 Repository Addr: https://github.com/ahmadou5/flamebase
 
