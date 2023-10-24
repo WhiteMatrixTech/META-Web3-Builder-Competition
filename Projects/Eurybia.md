@@ -2,7 +2,7 @@ Project Name: Eurybia
 
 Project Intro: An intro of Eurybia
 
-Video Link:
+Video Link:https://youtu.be/gRqtKrdAl20
 
 Repository Addr:
 
