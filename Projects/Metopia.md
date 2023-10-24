@@ -10,7 +10,7 @@ Metopia's Growth-Oriented Contribution Quests provide an exciting opportunity fo
 
 Video Link: 
 
-[https://](https://test.metopia.xyz/leaderboard) - DEMO
+[DEMO](https://test.metopia.xyz/leaderboard)
 
 Repository Addr:
 
