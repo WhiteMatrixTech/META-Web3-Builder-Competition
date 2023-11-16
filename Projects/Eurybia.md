@@ -6,7 +6,7 @@ Eurybia Technology Limited is a Web3 technology powerhouse spun off from the Lab
 
 Video Link:https://youtu.be/gRqtKrdAl20
 
-Repository Addr:
+Repository Addr: http://eurybia.xyz/
 
 Contract Addr:	
 	
